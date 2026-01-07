@@ -1,1 +1,1 @@
-Parkinsons_Disease_Detection - Support Vector Machine 
+Parkinsons_Disease_Detection - SVM
